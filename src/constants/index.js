@@ -10,7 +10,7 @@ export const providers = {
     providerCurrentDay: 'privatBank',
 
     fixerAPI: {
-        url: 'http://api.fixer.io',
+        url: 'https://api.fixer.io',
         urlCurrentDate: (url) => `${url}/latest`,
         urlArchiveDate: (url, date) => `${url}/${date}`,
         fieldMapping: (result) => {
