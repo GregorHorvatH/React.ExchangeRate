@@ -1,0 +1,19 @@
+.table-bordered {
+    margin-bottom: 0;
+}
+
+.ccy-filter-check {
+    width: 100px;
+}
+
+.btn-group .btn+.btn, .btn-group .btn+.btn-group, .btn-group .btn-group+.btn, .btn-group .btn-group+.btn-group {
+    margin-left: 0;
+}
+
+.ccy-filter-toolbar {
+    padding-bottom: 15px;
+}
+
+.label-current-date {
+    margin-top: 0;
+}
